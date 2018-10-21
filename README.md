@@ -15,4 +15,7 @@ Prologue/tutorial level
   - player uses each of these commands to solve first puzzle
   - door wasn't locked, it was just a pull-not-push, but it's too late now and player is judged by the world
   
+  command list for tute level: 
+  -
+  
   
