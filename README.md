@@ -16,6 +16,8 @@ Prologue/tutorial level
   - door wasn't locked, it was just a pull-not-push, but it's too late now and player is judged by the world
   
   command list for tute level: 
-  -
+  - look (fails or everything is v dark)
+  - use (you have no objects)
+  - ask (there is no-one in the room with you - THAT YOU KNOW OF)
   
   
