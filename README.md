@@ -20,6 +20,6 @@ Prologue/tutorial level
   - look (fails or everything is v dark)
   - use (you have no objects)
   - ask (there is no-one in the room with you - THAT YOU KNOW OF)
-  - grab (you flail wildly in the darkness, grabbing at air (you need to specific what it is you want to grab))
+  - grab (you flail wildly in the darkness, grabbing at air (you need to specify what it is you want to grab))
   
   
