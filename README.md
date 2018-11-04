@@ -23,3 +23,12 @@ Prologue/tutorial level
   - grab (you flail wildly in the darkness, grabbing at air (you need to specify what it is you want to grab))
   
   
+- Implement simplified commands, for example:
+  - north = 'n'
+  - south = 's'
+  - look = 'l'
+  - use = 'u' 
+*Some abilites hidden from help menu until the user has tried them at least once*
+
+- Map = yep
+
