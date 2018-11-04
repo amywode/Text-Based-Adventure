@@ -32,3 +32,6 @@ Prologue/tutorial level
 
 - Map = yep
 
+suggested slightly more fleshed out story for tutorial: 
+- background story which player isn't yet aware of: player is a traveller on some kind of ship (pirate,space, anything) which has crashed and broken their helmet, which is now stuck onto their head. Their helmet is connected to a team of other travellers like them who will sometimes talk to them through their helmet and give tips or advice, like in the tutorial level. On successfully getting their helmet off, it reveals a room in their ship (player still isn't aware yet it's a ship). on leaving the ship, it reveals a new world and Level One: which I suggest is where the player gathers materials to repair their ship.  
+
